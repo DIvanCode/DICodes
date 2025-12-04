@@ -11,3 +11,8 @@
 3. [Task Management System (fms)](components/tms.md)
 4. [Exec Management System (ems)](components/ems.md)
 5. [File Management System (fms)](components/fms.md)
+
+## Third-party компоненты
+
+1. [PostgreSQL](https://www.postgresql.org)
+2. [Kafka](https://kafka.apache.org)
