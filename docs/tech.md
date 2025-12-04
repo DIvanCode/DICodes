@@ -14,5 +14,6 @@
 
 ## Third-party компоненты
 
-1. [PostgreSQL](https://www.postgresql.org)
-2. [Kafka](https://kafka.apache.org)
+1. [Nginx](https://nginx.org)
+2. [PostgreSQL](https://www.postgresql.org)
+3. [Kafka](https://kafka.apache.org)
